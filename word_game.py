@@ -18,7 +18,7 @@ def make_words(name):
 
 	return list	# once the list is complete return the list
 
-name = make_words('dharshana')	# returns a list called name
+name = make_words('insertword')	# returns a list called name
 total = 0
 
 
@@ -51,7 +51,7 @@ for word in words:
 			word = ''.join(word) # convert list to string
 			print(word)
 
-	name = make_words('dharshana')
+	name = make_words('insertword')
 
 name = ''.join(name)
 print('total number of words found in ' + name + ': ' + str(total))
