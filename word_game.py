@@ -1,7 +1,7 @@
 # Author : Niroshiman
 # Descri : Code that generates anagram from any word. 
 # Instru : 1) Set type_word to personally desired word  
-#  		   2) Set valid_word_length to desired number
+#        : 2) Set valid_word_length to desired number
 
 # A function that takes every alphabet from a username and puts into a list
 def make_words(name):
